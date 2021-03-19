@@ -1,0 +1,2526 @@
+fileFormatVersion: 2
+guid: 5d57b5e2015ba3e488be3bdb202e81d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 48457588882560919
+    second: Space
+  - first:
+      213: -3468038363582563128
+    second: Title_Screen_1
+  - first:
+      213: 5590225355337757289
+    second: Title_Screen_2
+  - first:
+      213: 8566108923524068831
+    second: Title_Screen_3
+  - first:
+      213: 8497031857197201702
+    second: Title_Screen_4
+  - first:
+      213: 1242254788287980267
+    second: Title_Screen_5
+  - first:
+      213: 7947778931021573226
+    second: Menu_Splash
+  - first:
+      213: -6750275531660778068
+    second: Title_Screen_7
+  - first:
+      213: -8864122888096118854
+    second: Title_Screen_8
+  - first:
+      213: 4788311448197377510
+    second: Title_Screen_9
+  - first:
+      213: -60851689158949040
+    second: Title_Screen_10
+  - first:
+      213: -2231658189554705620
+    second: Title_Screen_11
+  - first:
+      213: 681368849859713403
+    second: Scrolling_Text
+  - first:
+      213: 1400255554536243788
+    second: Title_Screen_13
+  - first:
+      213: -7561159492518270715
+    second: Title_Screen_14
+  - first:
+      213: 3072922467875604416
+    second: Title_Screen_15
+  - first:
+      213: 4909794971031644184
+    second: Title_Screen_16
+  - first:
+      213: -5241854577648965563
+    second: Title_Screen_17
+  - first:
+      213: 6947973984778600470
+    second: Title_Screen_18
+  - first:
+      213: 3331667395200781168
+    second: Title_Screen_19
+  - first:
+      213: -2373185973605902842
+    second: Title_Screen_20
+  - first:
+      213: 5008159352001518871
+    second: Title_Screen_21
+  - first:
+      213: -4215285740905565084
+    second: Title_Screen_22
+  - first:
+      213: -6724326107469065262
+    second: Title_Screen_23
+  - first:
+      213: -6676360535377717204
+    second: Title_Screen_24
+  - first:
+      213: -8044872139425340229
+    second: Title_Screen_25
+  - first:
+      213: -3853474653355510097
+    second: Title_Screen_26
+  - first:
+      213: -2445723870467944364
+    second: Title_Screen_27
+  - first:
+      213: 3123405066180025563
+    second: Title_Screen_28
+  - first:
+      213: -353149007066030335
+    second: Title_Screen_29
+  - first:
+      213: -1298490029302780370
+    second: Title_Screen_30
+  - first:
+      213: 8754661266279488931
+    second: Title_Screen_31
+  - first:
+      213: -739185352484678720
+    second: Title_Screen_32
+  - first:
+      213: 3623540816374286666
+    second: Title_Screen_33
+  - first:
+      213: 793698576960291254
+    second: Title_Screen_34
+  - first:
+      213: 3676510922698514346
+    second: Title_Screen_35
+  - first:
+      213: 4478717480117045898
+    second: Title_Screen_36
+  - first:
+      213: 4391793592740481397
+    second: Title_Screen_37
+  - first:
+      213: -3599552221224133192
+    second: Title_Screen_38
+  - first:
+      213: -6885913506893102841
+    second: Title_Screen_39
+  - first:
+      213: 4665169665607513055
+    second: Title_Screen_40
+  - first:
+      213: 2000301495041561188
+    second: Title_Screen_41
+  - first:
+      213: -6637697850485393191
+    second: Title_Screen_42
+  - first:
+      213: 8953974296820455382
+    second: Title_Screen_43
+  - first:
+      213: -2845428009905810277
+    second: Title_Screen_44
+  - first:
+      213: -7076752525370295623
+    second: Title_Screen_45
+  - first:
+      213: 6169809633096826403
+    second: Title_Screen_46
+  - first:
+      213: -4963118414292271097
+    second: Title_Screen_47
+  - first:
+      213: 260914872915685494
+    second: Title_Screen_48
+  - first:
+      213: -23838332524890331
+    second: Title_Screen_49
+  - first:
+      213: -9027487526863672991
+    second: Title_Screen_50
+  - first:
+      213: 265898828074680711
+    second: Title_Screen_51
+  - first:
+      213: 1533269347456885677
+    second: Title_Screen_52
+  - first:
+      213: -6054544248143140510
+    second: Title_Screen_53
+  - first:
+      213: 6131273427133885961
+    second: Title_Screen_54
+  - first:
+      213: 6812470577361370957
+    second: Title_Screen_55
+  - first:
+      213: -3511953647357759661
+    second: Title_Screen_56
+  - first:
+      213: 3996400767658469507
+    second: Title_Screen_57
+  - first:
+      213: 5511065532020055128
+    second: Title_Screen_58
+  - first:
+      213: -177233184582210807
+    second: Title_Screen_59
+  - first:
+      213: 6717251298023528628
+    second: Title_Screen_60
+  - first:
+      213: 4270490116101639245
+    second: Title_Screen_61
+  - first:
+      213: -4524402776233644334
+    second: Title_Screen_62
+  - first:
+      213: -1250821654466137161
+    second: Title_Screen_63
+  - first:
+      213: -1424280860135409955
+    second: Title_Screen_64
+  - first:
+      213: 9150963249424903907
+    second: Title_Screen_65
+  - first:
+      213: 3578170931416431725
+    second: Title_Screen_66
+  - first:
+      213: -5970678384600065894
+    second: Title_Screen_67
+  - first:
+      213: 1980603086842441704
+    second: Title_Screen_68
+  - first:
+      213: 1298133218354974721
+    second: Title_Screen_69
+  - first:
+      213: 2123813264329774274
+    second: Title_Screen_70
+  - first:
+      213: 7221776799515057879
+    second: Title_Screen_71
+  - first:
+      213: 3320100586522264280
+    second: Title_Screen_72
+  - first:
+      213: 799679346177511963
+    second: Title_Screen_73
+  - first:
+      213: -4936378367513103034
+    second: Title_Screen_74
+  - first:
+      213: -7390613282520320026
+    second: Title_Screen_75
+  - first:
+      213: -835927720644484643
+    second: Title_Screen_76
+  - first:
+      213: -2878485699865235904
+    second: Title_Screen_77
+  - first:
+      213: -4969426677142148313
+    second: Title_Screen_78
+  - first:
+      213: -600291878426625938
+    second: Title_Screen_79
+  - first:
+      213: -9067565860238488503
+    second: Title_Screen_80
+  - first:
+      213: -8736535944135329559
+    second: Title_Screen_81
+  - first:
+      213: -7491594062462197013
+    second: Title_Screen_82
+  - first:
+      213: 6133289446618472212
+    second: Title_Screen_83
+  - first:
+      213: -5705491521078256696
+    second: Title_Screen_84
+  - first:
+      213: 2378581742211722063
+    second: Title_Screen_85
+  - first:
+      213: -7776885767168889546
+    second: Title_Screen_86
+  - first:
+      213: -2517529242666795817
+    second: Title_Screen_87
+  - first:
+      213: 6696482490897284546
+    second: Title_Screen_88
+  - first:
+      213: 7469526125039522084
+    second: Title_Screen_89
+  - first:
+      213: 5552425049849349860
+    second: Title_Screen_90
+  - first:
+      213: -8377675250804999186
+    second: Title_Screen_91
+  - first:
+      213: -6178373770460875325
+    second: Title_Screen_92
+  - first:
+      213: 1646436630890425973
+    second: Title_Screen_93
+  - first:
+      213: 7985124845699566903
+    second: Title_Screen_94
+  - first:
+      213: 8748142116600698535
+    second: Title_Screen_95
+  - first:
+      213: 2636349908157175378
+    second: Title_Screen_96
+  - first:
+      213: -992449841970267823
+    second: Title_Screen_97
+  - first:
+      213: -9078891755597559475
+    second: Title_Screen_98
+  - first:
+      213: 4562116396242531601
+    second: Title_Screen_99
+  - first:
+      213: 7016241712727563410
+    second: Title_Screen_100
+  - first:
+      213: 6116423903692099599
+    second: Title_Screen_101
+  - first:
+      213: 6727703905384489115
+    second: Title_Screen_102
+  - first:
+      213: -1009957760414640997
+    second: Title_Screen_103
+  - first:
+      213: 3563185464558435117
+    second: Title_Screen_104
+  - first:
+      213: -7530330724646707133
+    second: Title_Screen_105
+  - first:
+      213: -2987006064186053241
+    second: Title_Screen_106
+  - first:
+      213: -8984705574878570267
+    second: Title_Screen_107
+  - first:
+      213: -401992708684183978
+    second: Title_Screen_108
+  - first:
+      213: -8685815281532664550
+    second: Title_Screen_109
+  - first:
+      213: -5800134274978231998
+    second: Title_Screen_110
+  - first:
+      213: 3946151602011376354
+    second: Title_Screen_111
+  - first:
+      213: -5616121606954677355
+    second: Title_Screen_112
+  - first:
+      213: -5525674371085584720
+    second: Title_Screen_113
+  - first:
+      213: -4568941157848560995
+    second: Title_Screen_114
+  - first:
+      213: -969712479925636652
+    second: Title_Screen_115
+  - first:
+      213: -8932697028984742033
+    second: Title_Screen_116
+  - first:
+      213: -268638361378981376
+    second: Title_Screen_117
+  - first:
+      213: 6191474516508793638
+    second: Title_Screen_118
+  - first:
+      213: -8336605505929754742
+    second: Title_Screen_119
+  - first:
+      213: 7585671676791380883
+    second: Title_Screen_120
+  - first:
+      213: -3400055626613832268
+    second: Title_Screen_121
+  - first:
+      213: -3119000538817124985
+    second: Title_Screen_122
+  - first:
+      213: -2332829996469573297
+    second: Title_Screen_123
+  - first:
+      213: -6825597378593425151
+    second: Title_Screen_124
+  - first:
+      213: 8652010991600669499
+    second: Title_Screen_125
+  - first:
+      213: -1666844206521986145
+    second: Title_Screen_126
+  - first:
+      213: 3102630391913858978
+    second: Title_Screen_127
+  - first:
+      213: 3533271704881924108
+    second: Title_Screen_128
+  - first:
+      213: 2282184422358986675
+    second: Title_Screen_129
+  - first:
+      213: 6223473618965520467
+    second: Title_Screen_130
+  - first:
+      213: -2289271171089828776
+    second: Title_Screen_131
+  - first:
+      213: 8970849412904074550
+    second: Title_Screen_132
+  - first:
+      213: 8498217889252703182
+    second: Title_Screen_133
+  - first:
+      213: 4457637827568478900
+    second: Title_Screen_134
+  - first:
+      213: -104758575733735927
+    second: Title_Screen_135
+  - first:
+      213: -7673725347226947833
+    second: Title_Screen_136
+  - first:
+      213: -7906327200825368897
+    second: Title_Screen_137
+  - first:
+      213: -6143305176492621700
+    second: Title_Screen_138
+  - first:
+      213: -3203592107887727427
+    second: Title_Screen_139
+  - first:
+      213: 2283033037465628627
+    second: Title_Screen_140
+  - first:
+      213: -8927091515579354904
+    second: Title_Screen_141
+  - first:
+      213: 7940674661089577310
+    second: Title_Screen_142
+  - first:
+      213: 6501095209274715950
+    second: Title_Screen_143
+  - first:
+      213: -4740152583886332640
+    second: Title_Screen_144
+  - first:
+      213: 278292150725689821
+    second: Title_Screen_145
+  - first:
+      213: -3787001432249955556
+    second: Title_Screen_146
+  - first:
+      213: -5187982340024606602
+    second: Title_Screen_147
+  - first:
+      213: 167369909220546697
+    second: Title_Screen_148
+  - first:
+      213: 7379956168567085173
+    second: Title_Screen_149
+  - first:
+      213: 6143856625738303079
+    second: Title_Screen_150
+  - first:
+      213: -1950067457666691085
+    second: Title_Screen_151
+  - first:
+      213: -6880114199615402568
+    second: Title_Screen_152
+  - first:
+      213: 732691638249898564
+    second: Title_Screen_153
+  - first:
+      213: -7308226728348253044
+    second: Title_Screen_154
+  - first:
+      213: -6819460696515587060
+    second: Title_Screen_155
+  - first:
+      213: 5357431587821832875
+    second: Title_Screen_156
+  - first:
+      213: 5645087548327954632
+    second: Title_Screen_157
+  - first:
+      213: 3362342553251179196
+    second: Title_Screen_158
+  - first:
+      213: 5307082133469120246
+    second: Title_Screen_159
+  - first:
+      213: -792792620081413742
+    second: Title_Screen_160
+  - first:
+      213: -6696806588049323575
+    second: Title_Screen_161
+  - first:
+      213: -9070606347444922731
+    second: Title_Screen_162
+  - first:
+      213: -3015354672322859090
+    second: Title_Screen_163
+  - first:
+      213: -2722881671492095307
+    second: Title_Screen_164
+  - first:
+      213: 4379741407191619237
+    second: Title_Screen_165
+  - first:
+      213: 2035165715048514883
+    second: Title_Screen_166
+  - first:
+      213: 5771067208190938451
+    second: Title_Screen_167
+  - first:
+      213: -8937576377316760291
+    second: Title_Screen_168
+  - first:
+      213: -7085385045719582591
+    second: Title_Screen_169
+  - first:
+      213: 5413415711457211070
+    second: Title_Screen_170
+  - first:
+      213: -2987932103331121458
+    second: Title_Screen_171
+  - first:
+      213: -8402253229306589297
+    second: Title_Screen_172
+  - first:
+      213: 2189779342832567970
+    second: Title_Screen_173
+  - first:
+      213: 7457925493117511126
+    second: Title_Screen_174
+  - first:
+      213: 3412263079049987565
+    second: Title_Screen_175
+  - first:
+      213: -987200974101183049
+    second: Title_Screen_176
+  - first:
+      213: -602603600125649570
+    second: Title_Screen_177
+  - first:
+      213: -2572289797476725807
+    second: Title_Screen_178
+  - first:
+      213: -2724858666055725242
+    second: Title_Screen_179
+  - first:
+      213: -8175150999716769865
+    second: Title_Screen_180
+  - first:
+      213: 9186578663785962112
+    second: Title_Screen_181
+  - first:
+      213: -7440787871585826304
+    second: Title_Screen_182
+  - first:
+      213: -3113948474304702895
+    second: Title_Screen_183
+  - first:
+      213: 5424767448612174840
+    second: Title_Screen_184
+  - first:
+      213: -5866142735759927592
+    second: Title_Screen_185
+  - first:
+      213: -221580141705578590
+    second: Title_Screen_186
+  - first:
+      213: 1752835716996368328
+    second: Title_Screen_187
+  - first:
+      213: 8674686227379227981
+    second: Title_Screen_188
+  - first:
+      213: -2973429614579521817
+    second: Title_Screen_189
+  - first:
+      213: 5866447484555971750
+    second: Title_Screen_190
+  - first:
+      213: 3494974384739245034
+    second: Title_Screen_191
+  - first:
+      213: 9137223380375228235
+    second: Title_Screen_192
+  - first:
+      213: 1136714163742483586
+    second: Title_Screen_193
+  - first:
+      213: 2684973428963798602
+    second: Title_Screen_194
+  - first:
+      213: -6117736635490799064
+    second: Title_Screen_195
+  - first:
+      213: -6761706135562728427
+    second: Title_Screen_196
+  - first:
+      213: -6525140641303688217
+    second: Title_Screen_197
+  - first:
+      213: 3468905939927327222
+    second: Title_Screen_198
+  - first:
+      213: 8005974925696764355
+    second: Title_Screen_199
+  - first:
+      213: 4185201589560821056
+    second: Title_Screen_200
+  - first:
+      213: -2841857416891755033
+    second: Title_Screen_201
+  - first:
+      213: -131351703583752606
+    second: Title_Screen_202
+  - first:
+      213: -8475708443396026511
+    second: Title_Screen_203
+  - first:
+      213: 2722545803050620611
+    second: Title_Screen_204
+  - first:
+      213: 8954987916232299625
+    second: Title_Screen_205
+  - first:
+      213: -1243968332068679121
+    second: Title_Screen_206
+  - first:
+      213: -1015613349148921690
+    second: Title_Screen_207
+  - first:
+      213: -7975246612312750895
+    second: Title_Screen_208
+  - first:
+      213: 8808779802912597726
+    second: Title_Screen_209
+  - first:
+      213: 6932184314687372599
+    second: Title_Screen_210
+  - first:
+      213: 299116260852964233
+    second: Title_Screen_211
+  - first:
+      213: -8423382953734445150
+    second: Title_Screen_212
+  - first:
+      213: 462091391021892459
+    second: Title_Screen_213
+  - first:
+      213: 7551650520739028797
+    second: Title_Screen_214
+  - first:
+      213: 6292252832270140825
+    second: Title_Screen_215
+  - first:
+      213: -2271984435599435267
+    second: Title_Screen_216
+  - first:
+      213: -9186706898201712180
+    second: Title_Screen_217
+  - first:
+      213: -6871590351860322838
+    second: Title_Screen_218
+  - first:
+      213: -8561036014141229120
+    second: Title_Screen_219
+  - first:
+      213: 6334075648853436095
+    second: Title_Screen_220
+  - first:
+      213: -6927773778851339943
+    second: Title_Screen_221
+  - first:
+      213: -5972610636106640131
+    second: Title_Screen_222
+  - first:
+      213: -6421824842709549662
+    second: Title_Screen_223
+  - first:
+      213: 6041840529091526998
+    second: Title_Screen_224
+  - first:
+      213: -5448908771745784642
+    second: Title_Screen_225
+  - first:
+      213: -3508860613765295959
+    second: Title_Screen_226
+  - first:
+      213: 3071611959808501646
+    second: Title_Screen_227
+  - first:
+      213: 309899992206964238
+    second: Title_Screen_228
+  - first:
+      213: 8575699888577500071
+    second: Title_Screen_229
+  - first:
+      213: 5512222222643397827
+    second: Title_Screen_230
+  - first:
+      213: -2489886114372366396
+    second: Title_Screen_231
+  - first:
+      213: 4350378726842058397
+    second: Title_Screen_232
+  - first:
+      213: -2496215799232229887
+    second: Title_Screen_233
+  - first:
+      213: -3843030101303595138
+    second: Title_Screen_234
+  - first:
+      213: 4710062889257752381
+    second: Title_Screen_235
+  - first:
+      213: 3505983532483707131
+    second: Title_Screen_236
+  - first:
+      213: -3637160381541418432
+    second: Title_Screen_237
+  - first:
+      213: 5248097520861874235
+    second: Title_Screen_238
+  - first:
+      213: 5772036869245589949
+    second: Title_Screen_239
+  - first:
+      213: -949666732468919142
+    second: Title_Screen_240
+  - first:
+      213: 6439452980071296003
+    second: Title_Screen_241
+  - first:
+      213: -2483026000650252291
+    second: Title_Screen_242
+  - first:
+      213: 3761978395608689812
+    second: Title_Screen_243
+  - first:
+      213: -6305264053986290443
+    second: Title_Screen_244
+  - first:
+      213: -4088858006341554758
+    second: Title_Screen_245
+  - first:
+      213: -7109662290194499522
+    second: Title_Screen_246
+  - first:
+      213: 5996432181431711942
+    second: Title_Screen_247
+  - first:
+      213: -1297539128237649189
+    second: Title_Screen_248
+  - first:
+      213: -3282173656249502284
+    second: Title_Screen_249
+  - first:
+      213: -4388219326410845609
+    second: Title_Screen_250
+  - first:
+      213: 3659915551242498944
+    second: Title_Screen_251
+  - first:
+      213: 5075392136598761995
+    second: Title_Screen_252
+  - first:
+      213: 8464862203580547363
+    second: Title_Screen_253
+  - first:
+      213: -9088173872525891983
+    second: Title_Screen_254
+  - first:
+      213: -1162833794053429569
+    second: Title_Screen_255
+  - first:
+      213: -7068980752752983265
+    second: Title_Screen_256
+  - first:
+      213: 3945842345078712122
+    second: Title_Screen_257
+  - first:
+      213: -1378737872863258679
+    second: Title_Screen_258
+  - first:
+      213: 6539322942837209087
+    second: Title_Screen_259
+  - first:
+      213: 1594224540895923164
+    second: Title_Screen_260
+  - first:
+      213: -1471870014245798684
+    second: Title_Screen_261
+  - first:
+      213: -7420139351861027630
+    second: Title_Screen_262
+  - first:
+      213: -7702059519801608434
+    second: Title_Screen_263
+  - first:
+      213: 2399108795704480139
+    second: Title_Screen_264
+  - first:
+      213: -5504745518563891140
+    second: Title_Screen_265
+  - first:
+      213: 1295479222692493822
+    second: Title_Screen_266
+  - first:
+      213: -6063874606890578753
+    second: Title_Screen_267
+  - first:
+      213: -1404526910271160432
+    second: Title_Screen_268
+  - first:
+      213: -8866236893412336039
+    second: Title_Screen_269
+  - first:
+      213: 2521367025337271543
+    second: Title_Screen_270
+  - first:
+      213: 4244332636561306748
+    second: Title_Screen_271
+  - first:
+      213: -8241084542157196148
+    second: Title_Screen_272
+  - first:
+      213: 5787908530300873265
+    second: Title_Screen_273
+  - first:
+      213: 2594397776778868313
+    second: Title_Screen_274
+  - first:
+      213: 4643927608909368517
+    second: Title_Screen_275
+  - first:
+      213: 5855358776639173455
+    second: Title_Screen_276
+  - first:
+      213: -6715272565494042838
+    second: Title_Screen_277
+  - first:
+      213: -4559598051256070480
+    second: Title_Screen_278
+  - first:
+      213: 4038490518568315997
+    second: Title_Screen_279
+  - first:
+      213: -5722904434776657732
+    second: Title_Screen_280
+  - first:
+      213: -6015865962845838645
+    second: Title_Screen_281
+  - first:
+      213: 853277438654550096
+    second: Title_Screen_282
+  - first:
+      213: 7643212945535185771
+    second: Title_Screen_283
+  - first:
+      213: -5558590498802073665
+    second: Title_Screen_284
+  - first:
+      213: 7504708375181617835
+    second: Title_Screen_285
+  - first:
+      213: -8951667818345254501
+    second: Title_Screen_286
+  - first:
+      213: -2255595162605937802
+    second: Title_Screen_287
+  - first:
+      213: 9032351749160857393
+    second: Title_Screen_288
+  - first:
+      213: -4663620792960185206
+    second: Title_Screen_289
+  - first:
+      213: 1402227186797526681
+    second: Title_Screen_290
+  - first:
+      213: 1439730337807189740
+    second: Title_Screen_291
+  - first:
+      213: 619765996231787415
+    second: Title_Screen_292
+  - first:
+      213: -8875177876404887017
+    second: Title_Screen_293
+  - first:
+      213: -1461273362932879135
+    second: Title_Screen_294
+  - first:
+      213: -2632491867122508135
+    second: Title_Screen_295
+  - first:
+      213: 2652465069544485700
+    second: Title_Screen_296
+  - first:
+      213: -2684627222698516931
+    second: Title_Screen_297
+  - first:
+      213: -1013051255414054310
+    second: Title_Screen_298
+  - first:
+      213: -5127355205744006028
+    second: Title_Screen_299
+  - first:
+      213: 7750923547687029728
+    second: Title_Screen_300
+  - first:
+      213: 1684271617115709720
+    second: Title_Screen_301
+  - first:
+      213: 8415308578028468178
+    second: Title_Screen_302
+  - first:
+      213: -7142981807073064579
+    second: Title_Screen_303
+  - first:
+      213: 1238507624125555439
+    second: Title_Screen_304
+  - first:
+      213: 2759167227292482478
+    second: Title_Screen_305
+  - first:
+      213: -5546481308003863176
+    second: Title_Screen_306
+  - first:
+      213: 7353288566642268896
+    second: Title_Screen_307
+  - first:
+      213: -202186812070503784
+    second: Title_Screen_308
+  - first:
+      213: 7984539848563227321
+    second: Title_Screen_309
+  - first:
+      213: 317694676981446116
+    second: Title_Screen_310
+  - first:
+      213: -3341625040534910525
+    second: Title_Screen_311
+  - first:
+      213: 5896519777621794674
+    second: Title_Screen_312
+  - first:
+      213: -5249141472768398552
+    second: Title_Screen_313
+  - first:
+      213: 4359760413901875817
+    second: Title_Screen_314
+  - first:
+      213: 6899128242632279116
+    second: Title_Screen_315
+  - first:
+      213: -7208347133167999826
+    second: Title_Screen_316
+  - first:
+      213: 2767600847224671536
+    second: Title_Screen_317
+  - first:
+      213: 3434297197135024869
+    second: Title_Screen_318
+  - first:
+      213: 4332045789685466383
+    second: Title_Screen_319
+  - first:
+      213: 8007599721738338272
+    second: Title_Screen_320
+  - first:
+      213: 4934686434414331086
+    second: Title_Screen_321
+  - first:
+      213: 495717869967599300
+    second: Title_Screen_322
+  - first:
+      213: -1997663499384195367
+    second: Title_Screen_323
+  - first:
+      213: 4949141561276718448
+    second: Title_Screen_324
+  - first:
+      213: -6600091635249484316
+    second: Title_Screen_325
+  - first:
+      213: 2905946137726482655
+    second: Title_Screen_326
+  - first:
+      213: -8112987362259141937
+    second: Title_Screen_327
+  - first:
+      213: 5277910988454700222
+    second: Title_Screen_328
+  - first:
+      213: -4165040534298653408
+    second: Title_Screen_329
+  - first:
+      213: 1091985821868903979
+    second: Title_Screen_330
+  - first:
+      213: -620120394898331763
+    second: Title_Screen_331
+  - first:
+      213: -1310631267016693135
+    second: Title_Screen_332
+  - first:
+      213: 7711754445836348351
+    second: Title_Screen_333
+  - first:
+      213: -8181405779716138386
+    second: Title_Screen_334
+  - first:
+      213: 3933876386700399268
+    second: Title_Screen_335
+  - first:
+      213: -4973010557396124833
+    second: Title_Screen_336
+  - first:
+      213: -6432170615282454695
+    second: Title_Screen_337
+  - first:
+      213: 2757247334262884583
+    second: Title_Screen_338
+  - first:
+      213: -326405701501513577
+    second: Title_Screen_339
+  - first:
+      213: -9030634955756472435
+    second: Title_Screen_340
+  - first:
+      213: -7906655145317822192
+    second: Title_Screen_341
+  - first:
+      213: -8965362951525225500
+    second: Title_Screen_342
+  - first:
+      213: 6387404849442617229
+    second: Title_Screen_343
+  - first:
+      213: -6625001525616278441
+    second: Title_Screen_344
+  - first:
+      213: -3635334276997712554
+    second: Title_Screen_345
+  - first:
+      213: 55741549410935442
+    second: Title_Screen_346
+  - first:
+      213: -2872093760032803976
+    second: Title_Screen_347
+  - first:
+      213: 1175063901475619603
+    second: Title_Screen_348
+  - first:
+      213: -5180038792561716558
+    second: Title_Screen_349
+  - first:
+      213: 3389623875498716015
+    second: Title_Screen_350
+  - first:
+      213: 8244131907142063926
+    second: Title_Screen_351
+  - first:
+      213: 1177442957729588189
+    second: Title_Screen_352
+  - first:
+      213: -8697132247196362400
+    second: Title_Screen_353
+  - first:
+      213: -973107250003626230
+    second: Title_Screen_354
+  - first:
+      213: 464423484542730154
+    second: Title_Screen_355
+  - first:
+      213: -1330426883838549700
+    second: Title_Screen_356
+  - first:
+      213: -6527699370660561312
+    second: Title_Screen_357
+  - first:
+      213: -5029994582828114801
+    second: Title_Screen_358
+  - first:
+      213: -131698184336560516
+    second: Title_Screen_359
+  - first:
+      213: -2083716149588987985
+    second: Title_Screen_360
+  - first:
+      213: -3995251493554912163
+    second: Title_Screen_361
+  - first:
+      213: 2166951431596902705
+    second: Title_Screen_362
+  - first:
+      213: 4439569337435581331
+    second: Title_Screen_363
+  - first:
+      213: -2779375484542634752
+    second: Title_Screen_364
+  - first:
+      213: -8323991068939824548
+    second: Title_Screen_365
+  - first:
+      213: 2031750496263469417
+    second: Title_Screen_366
+  - first:
+      213: -284294676910559133
+    second: Title_Screen_367
+  - first:
+      213: -5553098536839701586
+    second: Title_Screen_368
+  - first:
+      213: -1289935346291689160
+    second: Title_Screen_369
+  - first:
+      213: -1758411115025926007
+    second: Title_Screen_370
+  - first:
+      213: 6715777300833654408
+    second: Title_Screen_371
+  - first:
+      213: 1272952394152171605
+    second: Title_Screen_372
+  - first:
+      213: -4791152688727988815
+    second: Title_Screen_373
+  - first:
+      213: -1315862732750529566
+    second: Title_Screen_374
+  - first:
+      213: 5929037617252918688
+    second: Title_Screen_375
+  - first:
+      213: 6299267564589534476
+    second: Title_Screen_376
+  - first:
+      213: -7676504179215073715
+    second: Title_Screen_377
+  - first:
+      213: -2799007634729710671
+    second: Title_Screen_378
+  - first:
+      213: 6680016752146903824
+    second: Title_Screen_379
+  - first:
+      213: 5535704988477076157
+    second: Title_Screen_380
+  - first:
+      213: 6020051979894755900
+    second: Title_Screen_381
+  - first:
+      213: 2902962855803786346
+    second: Title_Screen_382
+  - first:
+      213: 6803069811901699365
+    second: Title_Screen_383
+  - first:
+      213: 8181794252557325319
+    second: Title_Screen_384
+  - first:
+      213: 7247488132757552187
+    second: Title_Screen_385
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Space
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1825
+        width: 255
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797540c9be72ca000800000000000000
+      internalID: 48457588882560919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_1
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1962
+        width: 63
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccfb379b7d0fdfc0800000000000000
+      internalID: -3468038363582563128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1962
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f947a758749d40800000000000000
+      internalID: 5590225355337757289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1938
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b4f54eaee0e670800000000000000
+      internalID: 8566108923524068831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1922
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ba6574758be570800000000000000
+      internalID: 8497031857197201702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1383
+        width: 928
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ee60f5206d3110800000000000000
+      internalID: 1242254788287980267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Splash
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1530
+        width: 255
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cefd024de2c4e60800000000000000
+      internalID: 7947778931021573226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1173
+        width: 504
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5295f1b243252a0800000000000000
+      internalID: -6750275531660778068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1220
+        width: 275
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70f99823f4cf480800000000000000
+      internalID: -8864122888096118854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1050
+        width: 273
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edadbf74ef737240800000000000000
+      internalID: 4788311448197377510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1147
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c2bb06bfc72ff0800000000000000
+      internalID: -60851689158949040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1147
+        width: 190
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b108f43be8701e0800000000000000
+      internalID: -2231658189554705620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrolling_Text
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 638
+        width: 247
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7997e0eb55b47900800000000000000
+      internalID: 681368849859713403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1093
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b81b018d57c3e20800000000000000
+      internalID: 3331667395200781168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1097
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d7414eefb01fd0800000000000000
+      internalID: -2373185973605902842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1102
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd992756e808540800000000000000
+      internalID: 5008159352001518871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464fd82c3fb4085c0800000000000000
+      internalID: -4215285740905565084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1109
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3db6248056ea2a0800000000000000
+      internalID: -6724326107469065262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1104
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28df58477dc853a0800000000000000
+      internalID: -6676360535377717204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1093
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b67ff7130eb040800000000000000
+      internalID: 4665169665607513055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1093
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46292a79c9f72cb10800000000000000
+      internalID: 2000301495041561188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1070
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8b17719f822e3a0800000000000000
+      internalID: -6637697850485393191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1093
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d716f9ce28e24c70800000000000000
+      internalID: 8953974296820455382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_44
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1088
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b941e9bfc420388d0800000000000000
+      internalID: -2845428009905810277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1059
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba74f982135acd90800000000000000
+      internalID: -7076752525370295623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1049
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3fd28155034aee0800000000000000
+      internalID: -1250821654466137161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1051
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bd379a10fb3ce0800000000000000
+      internalID: -1424280860135409955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_65
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1050
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee20aa6790cefe70800000000000000
+      internalID: 9150963249424903907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 985
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3e82985faeec50800000000000000
+      internalID: 6696482490897284546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_89
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 985
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211b7b7f6619a760800000000000000
+      internalID: 7469526125039522084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_90
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 981
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e640423a2d2e0d40800000000000000
+      internalID: 5552425049849349860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 996
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebbf280fb48cbb80800000000000000
+      internalID: -8377675250804999186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 973
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b61a4ac1024aa0800000000000000
+      internalID: -6178373770460875325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_93
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1013
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e2a61846159d610800000000000000
+      internalID: 1646436630890425973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 989
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d811b7dbcd0de60800000000000000
+      internalID: 7985124845699566903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1000
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65e98c7e4a76970800000000000000
+      internalID: 8748142116600698535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_96
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 961
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25697530642369420800000000000000
+      internalID: 2636349908157175378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_97
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1006
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15938ff702c1a32f0800000000000000
+      internalID: -992449841970267823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_134
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 867
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba20919cf5bcdd30800000000000000
+      internalID: 4457637827568478900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_135
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 838
+        width: 111
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef63261a2db8ef0800000000000000
+      internalID: -104758575733735927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_136
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 903
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f60ae2473718590800000000000000
+      internalID: -7673725347226947833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_250
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 797
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75217ccb5c9e913c0800000000000000
+      internalID: -4388219326410845609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_251
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 734
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083bcb38dc1aac230800000000000000
+      internalID: 3659915551242498944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_269
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 770
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed1b1558cc4f480800000000000000
+      internalID: -8866236893412336039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_276
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 638
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433b0ac8c9624150800000000000000
+      internalID: 5855358776639173455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_293
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 675
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122b7e7eb805d480800000000000000
+      internalID: -8875177876404887017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_332
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 638
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a23f18ec3bfcde0800000000000000
+      internalID: -1310631267016693135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_353
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 638
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0691441fc449d4780800000000000000
+      internalID: -8697132247196362400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_354
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073d23ac14de72f0800000000000000
+      internalID: -973107250003626230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_355
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 638
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb485d2b6f17600800000000000000
+      internalID: 464423484542730154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_356
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 638
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316c2d4ccf598de0800000000000000
+      internalID: -1330426883838549700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_357
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 638
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e7c33f104f865a0800000000000000
+      internalID: -6527699370660561312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_358
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 638
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c1464b39ed13ab0800000000000000
+      internalID: -5029994582828114801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_359
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 638
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e2e09f23d1c2ef0800000000000000
+      internalID: -131698184336560516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_360
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 638
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe003b3372513e0800000000000000
+      internalID: -2083716149588987985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_361
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 638
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548f423fe30e88c0800000000000000
+      internalID: -3995251493554912163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_362
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 638
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398bd598de821e10800000000000000
+      internalID: 2166951431596902705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_368
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 638
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9de46d4e6fe2b0800000000000000
+      internalID: -5553098536839701586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_384
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 773
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704130116829b8170800000000000000
+      internalID: 8181794252557325319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Screen_385
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 391
+        width: 141
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7fd2de00449460800000000000000
+      internalID: 7247488132757552187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
