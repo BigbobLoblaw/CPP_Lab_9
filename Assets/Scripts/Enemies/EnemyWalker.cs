@@ -10,9 +10,11 @@ public class EnemyWalker : MonoBehaviour
     Rigidbody2D rb;
     SpriteRenderer sr;
     Animator anim;
+    AudioSource walkerAudio;
 
     public int health;
     public float speed;
+    public AudioClip dieSFX;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +22,7 @@ public class EnemyWalker : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+        walkerAudio = GetComponent<AudioSource>();
 
         if (speed <= 0)
         {
@@ -62,7 +65,9 @@ public class EnemyWalker : MonoBehaviour
         health--;
         if (health <= 0)
         {
+            walkerAudio.clip = dieSFX;
             anim.SetBool("Death", true);
+            walkerAudio.Play();
             rb.velocity = Vector2.zero;
         }
     }

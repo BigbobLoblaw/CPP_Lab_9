@@ -5,11 +5,13 @@ using UnityEngine;
 [RequireComponent(typeof(Animator))]
 public class EnemyTurret : MonoBehaviour
 {
+    AudioSource turretAudio;
 
     public Transform spawnPointLeft;
     public Transform spawnPointRight;
     public Transform Player;
     public Projectile projectilePrefab;
+    public AudioClip dieSFX;
 
     public float projectileForce;
     public bool isFacingRight;
@@ -24,6 +26,7 @@ public class EnemyTurret : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        turretAudio = GetComponent<AudioSource>();
 
         if (projectileForce <= 0)
         {
@@ -88,7 +91,9 @@ public class EnemyTurret : MonoBehaviour
             Destroy(collision.gameObject);
             if (health <= 0)
             {
+                turretAudio.clip = dieSFX;
                 GameManager.instance.score++;
+                turretAudio.Play();
                 Destroy(gameObject);
             }
         }
